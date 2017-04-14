@@ -1,0 +1,7 @@
+@charset "utf-8";
+.contenido {
+	color: #333;
+}
+.contenido .contenido {
+	text-align: justify;
+}
